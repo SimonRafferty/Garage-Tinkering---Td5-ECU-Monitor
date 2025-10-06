@@ -26,10 +26,10 @@ Install via Arduino Library Manager:
 
 Recommended settings:
 - **Upload Speed**: 921600
-- **USB CDC On Boot**: Disabled (unless using USB serial)
-- **Flash Size**: 16MB (adjust to your module)
-- **Partition Scheme**: Default 4MB with spiffs
-- **PSRAM**: OPI PSRAM (if available)
+- **USB CDC On Boot**: Enabled
+- **Flash Size**: 8MB
+- **Partition Scheme**: Huge App
+- **PSRAM**: OPI PSRAM
 
 ## File Structure
 
